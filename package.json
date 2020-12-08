@@ -4,11 +4,10 @@
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.1.2",
-    "@rebass/preset": "^4.0.5",
+    "@emotion/styled": "^11.0.0",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "emotion-theming": "^11.0.0",
-    "node-sass": "^4.14.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",

@@ -1,0 +1,11 @@
+.timeline {
+    width: 1000px;
+    height: 2000px;
+    background: #222;
+    display: grid;
+    grid-template-columns: repeat(52, 1fr);
+}
+
+.week {
+    background: #000;
+}
